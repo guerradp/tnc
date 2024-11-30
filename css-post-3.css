@@ -1,0 +1,15 @@
+.elementor-3 .elementor-element.elementor-element-39f56b70{--display:flex;--gap:20px 20px;--background-transition:0.3s;}.elementor-3 .elementor-element.elementor-element-040fd7c{--spacer-size:147px;}.elementor-3 .elementor-element.elementor-element-040fd7c .elementor-widget-container{transition:all 400ms;}.elementor-3 .elementor-element.elementor-element-a38f9a4{text-align:center;}.elementor-3 .elementor-element.elementor-element-a38f9a4 .elementor-heading-title{color:var( --e-global-color-primary );font-size:55px;}.elementor-3 .elementor-element.elementor-element-a38f9a4 > .elementor-widget-container{margin:0rem 0rem 2rem 0rem;}.elementor-3 .elementor-element.elementor-element-a38f9a4 .elementor-widget-container{transition:all 400ms;}.elementor-3 .elementor-element.elementor-element-23345353{column-gap:0px;text-align:justify;font-family:"Underground Book", Sans-serif;font-size:16px;}.elementor-3 .elementor-element.elementor-element-23345353 .elementor-widget-container{transition:all 400ms;}.elementor-3 .elementor-element.elementor-element-a77d431{--spacer-size:300px;}.elementor-3 .elementor-element.elementor-element-a77d431 .elementor-widget-container{transition:all 400ms;}/* Start custom CSS for text-editor, class: .elementor-element-23345353 */.heading{
+    padding: 0%;
+    margin: 0%;
+}
+.paragraph{
+    padding: 0%;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Underground Book';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../fonts/03-P22UNDERGROUND-BOOK.woff') format('woff');
+}
+/* End Custom Fonts CSS */
